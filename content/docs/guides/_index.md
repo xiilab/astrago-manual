@@ -17,3 +17,10 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+# Overview
+잡스케줄러와 자원최적화 기술로 GPU 서버 활용률 극대화
+동종 솔루션 중 유일한 학습시간 예측 기능으로 편의성 향상
+실시간 모니터링 및 리포트로 인프라 관리효율 향상
+
+![astrago-overview.png!](/images/astrago-overview.png)
