@@ -1,7 +1,6 @@
 # Overrides for production environment
 title = "Astrago Manual"
 baseurl = "https://xiilab.github.io/astrago-manual/"
-canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
