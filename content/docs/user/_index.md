@@ -1,5 +1,5 @@
 ---
-title: "Guides"
+title: "사용자"
 description: ""
 summary: ""
 date: 2023-09-07T16:06:50+02:00
@@ -8,8 +8,9 @@ draft: false
 menu:
   docs:
     parent: ""
-    identifier: "guides-4e0d0e0f89f7decc11eaad4ae9193018"
 weight: 800
+sidebar:
+  collapsed: true
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -19,6 +20,7 @@ seo:
 ---
 
 # Overview
+
 잡스케줄러와 자원최적화 기술로 GPU 서버 활용률 극대화
 동종 솔루션 중 유일한 학습시간 예측 기능으로 편의성 향상
 실시간 모니터링 및 리포트로 인프라 관리효율 향상

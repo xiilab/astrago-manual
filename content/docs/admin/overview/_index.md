@@ -1,12 +1,11 @@
 ---
-title: "Docs"
+title: "Overview"
+layout: "overview"
 description: ""
 summary: ""
-date: 2023-09-07T16:12:03+02:00
-lastmod: 2023-09-07T16:12:03+02:00
+date: 2024-04-08T12:30:07+09:00
+lastmod: 2024-04-08T12:30:07+09:00
 draft: false
-weight: 999
-toc: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
