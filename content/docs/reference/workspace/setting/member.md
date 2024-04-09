@@ -10,7 +10,6 @@ menu:
     parent: ""
 
 weight: 136
-
 toc: true
 seo:
   title: "" # custom title (optional)
