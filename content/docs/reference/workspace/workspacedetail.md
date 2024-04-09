@@ -1,5 +1,5 @@
 ---
-title: "워크스페이스 목록"
+title: "워크스페이스 상세"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
 
-weight: 130
+weight: 132
 toc: true
 seo:
   title: "" # custom title (optional)
