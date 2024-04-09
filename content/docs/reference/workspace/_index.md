@@ -1,5 +1,5 @@
 ---
-title: "Workspace"
+title: "워크스페이스"
 description: ""
 summary: ""
 date: 2024-04-08T16:22:55+09:00
