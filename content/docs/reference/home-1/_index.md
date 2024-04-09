@@ -1,9 +1,9 @@
 ---
-title: "워크로드"
+title: "홈"
 description: ""
 summary: ""
-date: 2024-04-08T17:11:56+09:00
-lastmod: 2024-04-08T17:11:56+09:00
+date: 2024-04-08T15:19:58+09:00
+lastmod: 2024-04-08T15:19:58+09:00
 draft: false
 seo:
   title: "" # custom title (optional)
